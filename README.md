@@ -2,7 +2,6 @@
 
 A responsive weather forecast app built with **React** that fetches real-time data from the **OpenWeatherMap API**. Users can enter any city and get live weather info like temperature, condition, humidity, wind speed, gusts, and more.
 
----
 
 ## 🔧 Tech Stack
 
@@ -10,7 +9,6 @@ A responsive weather forecast app built with **React** that fetches real-time da
 - **Tailwind CSS**
 - **OpenWeatherMap API**
 
----
 
 ## ✨ Features
 
@@ -22,7 +20,6 @@ A responsive weather forecast app built with **React** that fetches real-time da
 - 📱 Mobile responsive design
 - 📌 Displays latitude & longitude of the location
 
----
 
 ## 🚀 Getting Started
 
