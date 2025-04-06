@@ -44,8 +44,8 @@ const Weather = () => {
                 </form>
                 {
                     weather && (
-                        <div className='flex flex-col gap-2 py-5'>
-                            <div className='flex items-center justify-center gap-6'>
+                        <div className='flex flex-col gap-2 py-5 px-3'>
+                            <div className='flex items-center justify-center gap-6 flex-wrap'>
                                 <p className='uppercase text-5xl'>{weather.name},</p>
                                 <p className='uppercase text-5xl'>{weather.sys.country}</p>
                             </div>
