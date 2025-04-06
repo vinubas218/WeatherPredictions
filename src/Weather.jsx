@@ -29,7 +29,7 @@ const Weather = () => {
         <div className="bg-[url('/bg.jpg')] bg-cover bg-center min-h-screen w-full">
             <div className='flex flex-col items-center justify-center py-12 md:py-28'>
                 <form onSubmit={handleSubmit}>
-                    <div className=' relative'>
+                    <div className=' relative pb-5'>
                         <input
                             type="text"
                             value={city}
