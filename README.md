@@ -28,7 +28,7 @@ A responsive weather forecast app built with **React** that fetches real-time da
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/vinubas218/WeatherPredictions.git
 
 ### 2.  Install dependencies
 
